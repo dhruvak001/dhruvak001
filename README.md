@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Dhruva, a full-time Machine Learning & Developement Enthusiast 👨‍💻 working remotely since 2021 🚀
+🔭 I’m currently working and learning Mlops.
 
+⚡ Fun fact: I use tabs over spaces
 
 ## 🌐 Socials:
+📫 How to reach me: ...
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/dhruvvvvvaaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhruvakkaushal) 
 
 # 💻 Tech Stack:
