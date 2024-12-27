@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Dhruva, a full-time Machine Learning & Developement Enthusiast 👨‍💻 working remotely since 2021 🚀</b>
+I'm Dhruva, a full-time Machine Learning & Developement Enthusiast 👨‍💻 working remotely since 2021 🚀 </b>
 🔭 I’m currently working and learning Mlops.
 
 ⚡ Fun fact: I use tabs over spaces
