@@ -29,21 +29,18 @@ I'm Dhruva, a full-time Machine Learning & Developement Enthusiast 👨‍💻 w
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhruvakkaushal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/dhruvvvvvaaa) 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
-###
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhruvak001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvak001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+##
 
 
-![](https://github-readme-stats.vercel.app/api?username=dhruvak001&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dhruvak001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvak001&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ###
 
