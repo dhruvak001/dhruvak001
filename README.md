@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Dhruva, a full-time Machine Learning & Developement Enthusiast 👨‍💻 working remotely since 2021 🚀 <br/>
+I'm Dhruva, a full-time Machine Learning & Developement Enthusiast 👨‍💻 working remotely since 2022 🚀 <br/>
 🔭 I’m currently working and highly interested in Open Source Projects. <br/>
 📫 How to reach me: b22ai017@iitj.ac.in / dhruvakkaushal@gmail.com <br/>
 ⚡ Fun fact: I use tabs over spaces
