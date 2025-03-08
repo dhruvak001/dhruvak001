@@ -5,7 +5,7 @@ I'm Dhruva, a full-time Machine Learning & Developement Enthusiast 👨‍💻 w
 ⚡ Fun fact: I use tabs over spaces
 
 ## 🌐 Socials:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvak001&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvak001" /> </p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dhruvakkaushal) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/instagram.com/dhruvvvvvaaa) 
 
 
