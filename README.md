@@ -12,7 +12,7 @@
 
 - 🔭 I'm currently working on **AI Agents and DevOps**
 - 🌱 I'm constantly exploring **Machine Learning & Cloud Computing**
-- 📫 How to reach me: **b22ai017@iitj.ac.in** | **dhruvakkaushal@gmail.com**
+- 📫 How to reach me: **b22ai017@alumni.iitj.ac.in** | **dhruvakkaushal@gmail.com**
 
 ---
 
